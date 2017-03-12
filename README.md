@@ -1,9 +1,14 @@
 # angular-lazy-load
 Angular2 lazy loading with modular approach. 
 
+
+
 What are Modules in angular2?
 
 Modules are group of related pieces of code and are bunched together. They are available on demand.
+
+
+
 
 Why modular approach?
 
